@@ -1,3 +1,12 @@
+*.eval
+*.txt
+*.libsvm
+*.pdf
+*.xml
+*.xml.*
+
+!friday13.eval
+
 *.save
 .*.swp
 .*.swo
