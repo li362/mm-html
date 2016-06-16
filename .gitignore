@@ -2,3 +2,12 @@
 .*.swp
 .*.swo
 updated.html
+*.log
+*.xml
+*.xml.processed
+*.txt
+*.libsvm
+*.eval
+*.pdf
+  
+git add -f friday13.eval
